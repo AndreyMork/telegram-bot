@@ -1,0 +1,5 @@
+.stack-work/
+*~
+temp
+config.json
+Logs.log
